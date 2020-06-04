@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Albert",
+    "spouse": "Lucy",
+    "occupation": "Risk Manager",
+    "location": "Seattle"
+  },
+  {
+    "id": 2,
+    "name": "Adam",
+    "spouse": "Lynn",
+    "occupation": "Accountant",
+    "location": "Indianapolis/Pawnee"
+  },
+  {
+    "id": 3,
+    "name": "April",
+    "spouse": "Andy",
+    "occupation": "Banker",
+    "location": "Washington D.C."
+  },
+  {
+    "id": 4,
+    "name": "Tom",
+    "spouse": "Sandy",
+    "occupation": "Auditor/Board Game Designer",
+    "location": "Indianapolis/Pawnee"
+  },
+  {
+    "id": 5,
+    "name": "Andy",
+    "spouse": "April",
+    "occupation": "Program Manager",
+    "location": "Washington D.C."
+  },
+  {
+    "id": 6,
+    "name": "Ann",
+    "spouse": "Paul",
+    "occupation": "Teacher",
+    "location": "Ann Arbor"
+  },
+  {
+    "id": 7,
+    "name": "Tom",
+    "spouse": "Lee",
+    "occupation": "Programmer",
+    "location": "Pawnee"
+  },
+  {
+    "id": 8,
+    "name": "Mark",
+    "spouse": "Sam",
+    "occupation": "City Planner",
+    "location": "Pawnee"
+  },
+  {
+    "id": 9,
+    "name": "Jerry",
+    "spouse": "Tom",
+    "occupation": "Reporter",
+    "location": "Pawnee"
+  },
+  {
+    "id": 10,
+    "name": "Chris",
+    "spouse": "Ann",
+    "occupation": "City Manager",
+    "location": "Ann Arbor"
+  },
+  {
+    "id": 11,
+    "name": "Donna",
+    "spouse": "Joe",
+    "occupation": "Realtor",
+    "location": "Seattle"
+  },
+  {
+    "id": 12,
+    "name": "Tammy",
+    "spouse": "Ron",
+    "occupation": "Project Manager",
+    "location": "Pawnee"
+  }
+]
